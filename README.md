@@ -6,4 +6,4 @@ Built using React, React-Bootstrap, Node, Express, and MongoDB
 
 Live demo https://myecommercebackend.herokuapp.com/
 
-Back end source code https://github.com/BharatiRuchika/Book_My_Show_Back
+Back end source code https://github.com/BharatiRuchika/Backend_Ecommerce
